@@ -14,7 +14,7 @@ Eine Windows-Anwendung zur Anzeige von Echtzeitdaten für Abfahrten der Verkehrs
 
 ## Installation
 
-1. Lade die neueste Version des Installers aus dem [Releases-Bereich](https://github.com/dein-benutzername/VAG-Fahrplanauskunft/releases) herunter
+1. Lade die neueste Version des Installers aus dem [Releases-Bereich](https://github.com/oli03ba/VAG-Fahrplanauskunft/releases) herunter
 2. Führe die heruntergeladene .msi-Datei aus
 3. Folge den Anweisungen des Installationsassistenten
 
